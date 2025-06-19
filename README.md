@@ -20,6 +20,9 @@ Projekt ma na celu pokazanie umiejętności związanych z:
 - HTML5  
 - CSS3
 
+## 🔗 Demo (GitHub Pages)
+👉 [Zobacz stronę online](https://vi0lettam.github.io/IT-witryna/) 
+
 ## 📂 Struktura projektu
 IT-witryna/  
 ├── index.html ← Strona główna  
